@@ -1,0 +1,4 @@
+.DS_Store
+.watcher.log
+.watcher.error.log
+__pycache__/
