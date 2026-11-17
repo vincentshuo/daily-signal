@@ -7,8 +7,18 @@ ROOT = Path(__file__).parent
 INTERVAL = 5
 QUIET_SECONDS = 60
 
+IGNORED_FILES = {'.watcher.log', '.watcher.error.log'}
+
+
 def snapshot():
-    return {p.relative_to(ROOT).as_posix(): (p.stat().st_mtime_ns, p.stat().st_size) for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts}
+    return {
+        path.relative_to(ROOT).as_posix(): (path.stat().st_mtime_ns, path.stat().st_size)
+        for path in ROOT.rglob('*')
+        if path.is_file()
+        and '.git' not in path.parts
+        and '__pycache__' not in path.parts
+        and path.name not in IGNORED_FILES
+    }
 
 def run(*args):
     subprocess.run(args, cwd=ROOT, check=True)

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:51:13",
+  "generatedAt": "2026-11-17T21:05:44",
   "channels": [
     {
       "id": "AI Engineer",
@@ -162,7 +162,24 @@
     {
       "id": "Fashion Neurosis",
       "name": "Fashion Neurosis",
-      "documents": []
+      "documents": [
+        {
+          "id": "Channel/Fashion Neurosis/Simone Rocha - Simone Rocha on the Power of Women Designers, Chloë Sevigny, Art and Fashion.html",
+          "path": "Channel/Fashion Neurosis/Simone Rocha - Simone Rocha on the Power of Women Designers, Chloë Sevigny, Art and Fashion.html",
+          "title": "女人设计女装的力量 — Simone Rocha 精读报告",
+          "modified": "2026-11-17T21:01:36",
+          "date": "2026.11.17",
+          "channel": "Fashion Neurosis"
+        },
+        {
+          "id": "Channel/Fashion Neurosis/Celia Paul - Celia Paul on Art and Love, Self Discipline, and Francis Bacon.html",
+          "path": "Channel/Fashion Neurosis/Celia Paul - Celia Paul on Art and Love, Self Discipline, and Francis Bacon.html",
+          "title": "艺术、爱与自律 — Celia Paul 精读报告",
+          "modified": "2026-11-17T20:53:25",
+          "date": "2026.11.17",
+          "channel": "Fashion Neurosis"
+        }
+      ]
     }
   ]
 }
