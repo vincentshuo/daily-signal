@@ -48,7 +48,7 @@ def discover():
             })
         docs.sort(key=lambda item: (item["modified"], item["path"]), reverse=True)
         channels.append({"id": channel_dir.name, "name": channel_dir.name, "documents": docs})
-    return {"generatedAt": datetime.now().isoformat(timespec="seconds"), "channels": channels}
+    return {"channels": channels}
 
 INDEX = r'''<!doctype html>
 <html lang="zh-CN">
