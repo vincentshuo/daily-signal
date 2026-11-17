@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:05:44",
+  "generatedAt": "2026-11-17T21:20:30",
   "channels": [
     {
       "id": "AI Engineer",
@@ -163,6 +163,22 @@
       "id": "Fashion Neurosis",
       "name": "Fashion Neurosis",
       "documents": [
+        {
+          "id": "Channel/Fashion Neurosis/Grace Coddington - Grace Coddington on Blondes, Nudity, and Anna Wintour.html",
+          "path": "Channel/Fashion Neurosis/Grace Coddington - Grace Coddington on Blondes, Nudity, and Anna Wintour.html",
+          "title": "金发、裸体与安娜·温图尔 — Grace Coddington 精读报告",
+          "modified": "2026-11-17T21:19:26",
+          "date": "2026.11.17",
+          "channel": "Fashion Neurosis"
+        },
+        {
+          "id": "Channel/Fashion Neurosis/Nathaniel Mary Quinn - Nathaniel Mary Quinn on Abandonment, Loving his Wife, and Painting the Rolling Stones.html",
+          "path": "Channel/Fashion Neurosis/Nathaniel Mary Quinn - Nathaniel Mary Quinn on Abandonment, Loving his Wife, and Painting the Rolling Stones.html",
+          "title": "遗弃、爱与滚石 — Nathaniel Mary Quinn 精读报告",
+          "modified": "2026-11-17T21:11:09",
+          "date": "2026.11.17",
+          "channel": "Fashion Neurosis"
+        },
         {
           "id": "Channel/Fashion Neurosis/Simone Rocha - Simone Rocha on the Power of Women Designers, Chloë Sevigny, Art and Fashion.html",
           "path": "Channel/Fashion Neurosis/Simone Rocha - Simone Rocha on the Power of Women Designers, Chloë Sevigny, Art and Fashion.html",
