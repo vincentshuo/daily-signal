@@ -277,7 +277,16 @@
     {
       "id": "Tetragrammaton",
       "name": "Tetragrammaton",
-      "documents": []
+      "documents": [
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Rick Rubin and Alain de Botton on Discovering the Unconscious Self.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Rick Rubin and Alain de Botton on Discovering the Unconscious Self.html",
+          "title": "发现无意识的自我 — Alain de Botton 精读报告",
+          "modified": "2026-11-18T00:30:05",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        }
+      ]
     },
     {
       "id": "The Tonight Show Starring Jimmy Fallon",
