@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:32:38",
+  "generatedAt": "2026-11-17T20:51:13",
   "channels": [
     {
       "id": "AI Engineer",
@@ -158,6 +158,11 @@
           "channel": "AI Engineer"
         }
       ]
+    },
+    {
+      "id": "Fashion Neurosis",
+      "name": "Fashion Neurosis",
+      "documents": []
     }
   ]
 }
