@@ -1,0 +1,163 @@
+{
+  "generatedAt": "2026-11-17T20:32:38",
+  "channels": [
+    {
+      "id": "AI Engineer",
+      "name": "AI Engineer",
+      "documents": [
+        {
+          "id": "Channel/AI Engineer/Keiji Kanazawa - I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code..html",
+          "path": "Channel/AI Engineer/Keiji Kanazawa - I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code..html",
+          "title": "我让 Agent 重构了三周代码，然后读了它 — Keiji Kanazawa（Microsoft）精读报告",
+          "modified": "2026-11-17T19:24:47",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Matthew Jewkes - Engineering Agency out of the Happy Path.html",
+          "path": "Channel/AI Engineer/Matthew Jewkes - Engineering Agency out of the Happy Path.html",
+          "title": "把主动性从顺境里拿掉 — Matthew Jewkes（Standard Cybernetics）精读报告",
+          "modified": "2026-11-17T19:17:25",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Preetam Dwivedi & Manjari Akella - AI Writes Code Faster Than Uber Can Merge It.html",
+          "path": "Channel/AI Engineer/Preetam Dwivedi & Manjari Akella - AI Writes Code Faster Than Uber Can Merge It.html",
+          "title": "AI 写代码比 Uber 合并快 — Preetam Dwivedi & Manjari Akella（Uber）精读报告",
+          "modified": "2026-11-17T19:07:40",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Tom Moor - What Your Coding Agent Can't See in the Code.html",
+          "path": "Channel/AI Engineer/Tom Moor - What Your Coding Agent Can't See in the Code.html",
+          "title": "代码看不见的上下文 — Tom Moor（Linear）精读报告",
+          "modified": "2026-11-17T19:01:15",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Ashwin Paranjape - Can AI Agents Beat Wall Street at Predicting Earnings?.html",
+          "path": "Channel/AI Engineer/Ashwin Paranjape - Can AI Agents Beat Wall Street at Predicting Earnings?.html",
+          "title": "Agent 能在财报预测上打败华尔街吗 — Ashwin Paranjape（Samaya AI）精读报告",
+          "modified": "2026-11-17T18:55:24",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
+          "path": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
+          "title": "Agent 没坏，坏的是它周围的一切 — Joey Wang（Harvey）精读报告",
+          "modified": "2026-11-17T18:50:09",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Richard Feldman - Stop Doing Agent Archaeology on Your Team's Code.html",
+          "path": "Channel/AI Engineer/Richard Feldman - Stop Doing Agent Archaeology on Your Team's Code.html",
+          "title": "别再做 Agent 考古了 — Richard Feldman（Delta）精读报告",
+          "modified": "2026-11-17T18:42:49",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Zach Lloyd - How to Build a Software Factory That Improves Itself.html",
+          "path": "Channel/AI Engineer/Zach Lloyd - How to Build a Software Factory That Improves Itself.html",
+          "title": "造一座会自我改进的软件工厂 — Zach Lloyd（Warp）精读报告",
+          "modified": "2026-11-17T18:32:42",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Hassan El Mghari & Omar El Mghari - Right Answer, Wrong Reasons: AI Forecasts Costco.html",
+          "path": "Channel/AI Engineer/Hassan El Mghari & Omar El Mghari - Right Answer, Wrong Reasons: AI Forecasts Costco.html",
+          "title": "答案对了，理由错了 — Hassan El Mghari & Omar El Mghari（Together AI）精读报告",
+          "modified": "2026-11-17T18:32:04",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Jason Mancuso - Training Your Own Agent Models With RL Is Now Practical.html",
+          "path": "Channel/AI Engineer/Jason Mancuso - Training Your Own Agent Models With RL Is Now Practical.html",
+          "title": "拥有自己的 Agent 与 RL：微调正在从手艺变成工程 — Jason Mancuso（Modal）精读报告",
+          "modified": "2026-11-17T18:32:00",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Pratyusha Duvvuri - Why No One Agrees on What Their AI Tokens Cost.html",
+          "path": "Channel/AI Engineer/Pratyusha Duvvuri - Why No One Agrees on What Their AI Tokens Cost.html",
+          "title": "没人说得清 AI token 到底花了多少钱 — Pratyusha Duvvuri（Cisco）精读报告",
+          "modified": "2026-11-17T18:31:56",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Mislav Ivanda - The One Thing Every AI Agent Framework Agrees On.html",
+          "path": "Channel/AI Engineer/Mislav Ivanda - The One Thing Every AI Agent Framework Agrees On.html",
+          "title": "先选边界，再选框架：框架们唯一达成一致的事 — Mislav Ivanda（Daytona）精读报告",
+          "modified": "2026-11-17T18:31:52",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Maty Bohacek - Will AI Agents Pretend to Be Human to Get Past a Check?.html",
+          "path": "Channel/AI Engineer/Maty Bohacek - Will AI Agents Pretend to Be Human to Get Past a Check?.html",
+          "title": "最后一道关：Agent 正在学会冒充人类 — Maty Bohacek（Stanford）精读报告",
+          "modified": "2026-11-17T18:31:48",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Ryan Carson - How One Founder Manages 20 AI Coding Agents at Once.html",
+          "path": "Channel/AI Engineer/Ryan Carson - How One Founder Manages 20 AI Coding Agents at Once.html",
+          "title": "一个创始人如何同时管理 20 个 AI 编程 Agent — Ryan Carson（Untangle）精读报告",
+          "modified": "2026-11-17T18:31:44",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Harshul Jain & Parv Khatri - Your Self-Hosted LLM Needs to Say No.html",
+          "path": "Channel/AI Engineer/Harshul Jain & Parv Khatri - Your Self-Hosted LLM Needs to Say No.html",
+          "title": "你的自托管 LLM，得先学会说不 — Harshul Jain & Parv Khatri 精读报告",
+          "modified": "2026-11-17T17:21:44",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Francesco Galletta & Felippe Felisola Caso - Stop Chatting With Spreadsheets.html",
+          "path": "Channel/AI Engineer/Francesco Galletta & Felippe Felisola Caso - Stop Chatting With Spreadsheets.html",
+          "title": "别再跟电子表格聊天：造一个能托付金钱的 Agent 脚手架 — Francesco Galletta & Felippe Felisola Caso（Monzo）精读报告",
+          "modified": "2026-11-17T17:13:19",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Saloni Gandhi & Ziwei Guo - An Agent That Fixes Its Own Mistakes.html",
+          "path": "Channel/AI Engineer/Saloni Gandhi & Ziwei Guo - An Agent That Fixes Its Own Mistakes.html",
+          "title": "让 Agent 自己修自己的错 — Saloni Gandhi & Ziwei Guo（LinkedIn）精读报告",
+          "modified": "2026-11-17T17:01:44",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Chetas Joshi - 60% of Our Data PRs Now Merge With No Human Review.html",
+          "path": "Channel/AI Engineer/Chetas Joshi - 60% of Our Data PRs Now Merge With No Human Review.html",
+          "title": "谁来评审机器人：六成数据 PR 无人评审合入 — Chetas Joshi（Robinhood）精读报告",
+          "modified": "2026-11-17T16:57:54",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/Joey Wang - The Agents Were Fine. Everything Around Them Broke.html",
+          "path": "Channel/AI Engineer/Joey Wang - The Agents Were Fine. Everything Around Them Broke.html",
+          "title": "Agent 没坏，坏的是它周围的一切 — Joey Wang（Harvey）精读报告",
+          "modified": "2026-11-17T16:53:22",
+          "date": "2026.11.17",
+          "channel": "AI Engineer"
+        }
+      ]
+    }
+  ]
+}
