@@ -4,7 +4,7 @@ A quiet, daily reading feed for ideas found on YouTube.
 
 ## How it works
 
-- HTML reading reports live under `AI Engineer/` and are published as-is.
+- HTML reading reports live under `Channel/<channel-name>/` and are published as-is.
 - `build_index.py` regenerates the reading index from every HTML file in the project.
 - `watch_sync.py` runs as a macOS LaunchAgent, waits for a 60-second quiet window, then rebuilds, commits, and pushes through the SSH remote.
 - `.github/workflows/pages.yml` deploys the repository to GitHub Pages after every push to `main`.
