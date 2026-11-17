@@ -11,14 +11,20 @@ IGNORED_FILES = {'.watcher.log', '.watcher.error.log'}
 
 
 def snapshot():
-    return {
-        path.relative_to(ROOT).as_posix(): (path.stat().st_mtime_ns, path.stat().st_size)
-        for path in ROOT.rglob('*')
-        if path.is_file()
-        and '.git' not in path.parts
-        and '__pycache__' not in path.parts
-        and path.name not in IGNORED_FILES
-    }
+    state = {}
+    for path in ROOT.rglob('*'):
+        if '.git' in path.parts or '__pycache__' in path.parts:
+            continue
+        if path.is_file() and path.name in IGNORED_FILES:
+            continue
+        # Include directories so creating an empty channel is observable too.
+        rel = path.relative_to(ROOT).as_posix()
+        if path.is_dir():
+            state[rel] = ('dir',)
+        elif path.is_file():
+            stat = path.stat()
+            state[rel] = ('file', stat.st_mtime_ns, stat.st_size)
+    return state
 
 def run(*args):
     subprocess.run(args, cwd=ROOT, check=True)
