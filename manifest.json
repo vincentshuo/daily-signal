@@ -279,6 +279,22 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
+          "title": "魔法正在回来 — Rupi Kaur 精读报告",
+          "modified": "2026-11-18T18:32:10",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Jimmy Iovine.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Jimmy Iovine.html",
+          "title": "一切都是一件事 — Jimmy Iovine 精读报告",
+          "modified": "2026-11-18T18:31:50",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/Tetragrammaton - Nick Broomfield.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Nick Broomfield.html",
           "title": "电影是拍电影的过程 — Nick Broomfield 精读报告",
