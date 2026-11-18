@@ -255,6 +255,14 @@
       "name": "Fashion Neurosis",
       "documents": [
         {
+          "id": "Channel/Fashion Neurosis/Petra Collins - Petra Collins on Horror Movies, Sheer Clothing, and Capturing Femininity.html",
+          "path": "Channel/Fashion Neurosis/Petra Collins - Petra Collins on Horror Movies, Sheer Clothing, and Capturing Femininity.html",
+          "title": "恐怖片、薄纱与捕捉女性气质 — Petra Collins 精读报告",
+          "modified": "2026-11-18T21:41:16",
+          "date": "2026.11.18",
+          "channel": "Fashion Neurosis"
+        },
+        {
           "id": "Channel/Fashion Neurosis/Grace Coddington - Grace Coddington on Blondes, Nudity, and Anna Wintour.html",
           "path": "Channel/Fashion Neurosis/Grace Coddington - Grace Coddington on Blondes, Nudity, and Anna Wintour.html",
           "title": "金发、裸体与安娜·温图尔 — Grace Coddington 精读报告",
@@ -285,6 +293,20 @@
           "modified": "2026-11-17T21:34:01",
           "date": "2026.11.17",
           "channel": "Fashion Neurosis"
+        }
+      ]
+    },
+    {
+      "id": "Reid Hoffman",
+      "name": "Reid Hoffman",
+      "documents": [
+        {
+          "id": "Channel/Reid Hoffman/Reid Hoffman - Live at Masters of Scale: AI Pacing and Data Centers.html",
+          "path": "Channel/Reid Hoffman/Reid Hoffman - Live at Masters of Scale: AI Pacing and Data Centers.html",
+          "title": "掌舵，而不是刹车 — Reid Hoffman 精读报告",
+          "modified": "2026-11-18T21:41:23",
+          "date": "2026.11.18",
+          "channel": "Reid Hoffman"
         }
       ]
     },
