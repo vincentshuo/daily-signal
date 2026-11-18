@@ -279,6 +279,46 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Vlad Tenev Pt. 1.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Vlad Tenev Pt. 1.html",
+          "title": "为什么我不能用它？ — Vlad Tenev Pt. 1 精读报告",
+          "modified": "2026-11-18T09:41:22",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Vlad Tenev Pt. 2.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Vlad Tenev Pt. 2.html",
+          "title": "数学是艺术，宇宙在偷懒 — Vlad Tenev Pt. 2 精读报告",
+          "modified": "2026-11-18T09:41:18",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Bryce Crawford.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Bryce Crawford.html",
+          "title": "头与心之间的十八英寸 — Bryce Crawford 精读报告",
+          "modified": "2026-11-18T09:41:11",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Kenny Chesney.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Kenny Chesney.html",
+          "title": "歌是从活过的日子里来的 — Kenny Chesney 精读报告",
+          "modified": "2026-11-18T09:41:08",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Dave Eggers.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Dave Eggers.html",
+          "title": "几乎总是先知道结局 — Dave Eggers 精读报告",
+          "modified": "2026-11-18T09:41:06",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/Tetragrammaton - Peter McGrath.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Peter McGrath.html",
           "title": "房间就是乐器 — Peter McGrath 精读报告",
