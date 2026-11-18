@@ -279,6 +279,14 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Dr. Mary Bowden.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Dr. Mary Bowden.html",
+          "title": "责任到我为止 — Dr. Mary Bowden 精读报告",
+          "modified": "2026-11-18T14:56:29",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/Tetragrammaton - George Saunders.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - George Saunders.html",
           "title": "故事说了算 — George Saunders 精读报告",
