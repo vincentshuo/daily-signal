@@ -282,7 +282,7 @@
           "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 3 - Travel Horror Stories.html",
           "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 3 - Travel Horror Stories.html",
           "title": "旅行灾难、婴儿禁令与新恐惧解锁 — Shaun Murphy 精读报告",
-          "modified": "2026-11-18T19:07:14",
+          "modified": "2026-11-18T19:20:15",
           "date": "2026.11.18",
           "channel": "Shaun Murphy Snooker"
         },
@@ -290,7 +290,15 @@
           "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 4 - The World Cup.html",
           "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 4 - The World Cup.html",
           "title": "世界杯、卷纸之战与上班喝酒 — Shaun Murphy 精读报告",
-          "modified": "2026-11-18T18:59:03",
+          "modified": "2026-11-18T19:20:09",
+          "date": "2026.11.18",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 2 - The OBE, Social Media and a Man on a Camel.html",
+          "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 2 - The OBE, Social Media and a Man on a Camel.html",
+          "title": "授勋、社媒与骑骆驼的男人 — Shaun Murphy 精读报告",
+          "modified": "2026-11-18T19:20:02",
           "date": "2026.11.18",
           "channel": "Shaun Murphy Snooker"
         }
@@ -304,7 +312,7 @@
           "id": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
           "title": "魔法正在回来 — Rupi Kaur 精读报告",
-          "modified": "2026-11-18T18:32:10",
+          "modified": "2026-11-18T19:20:20",
           "date": "2026.11.18",
           "channel": "Tetragrammaton"
         },
@@ -747,6 +755,14 @@
       "name": "The Tonight Show Starring Jimmy Fallon",
       "documents": [
         {
+          "id": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
+          "path": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
+          "title": "神秘女子的笑声与被操纵的中期选举 — Jimmy Fallon 精读报告",
+          "modified": "2026-11-18T19:20:25",
+          "date": "2026.11.18",
+          "channel": "The Tonight Show Starring Jimmy Fallon"
+        },
+        {
           "id": "Channel/The Tonight Show Starring Jimmy Fallon/Sam Rockwell Makes Another Iconic Tonight Show Entrance, Does His Best SNL Impression with Jimmy.html",
           "path": "Channel/The Tonight Show Starring Jimmy Fallon/Sam Rockwell Makes Another Iconic Tonight Show Entrance, Does His Best SNL Impression with Jimmy.html",
           "title": "两次登场与橡皮鸡之舞——萨姆·洛克威尔谈入场舞、试镜与《Wild Horse Nine》 — Sam Rockwell 精读报告",
@@ -799,14 +815,6 @@
           "path": "Channel/The Tonight Show Starring Jimmy Fallon/Pete Davidson Reacts to Footage from His Dramatic Mob Wives Television Debut.html",
           "title": "十七岁开逃逸车上了电视——皮特·戴维森谈《Mob Wives》首秀、芝士牛排与两部新片 — Jimmy Fallon 精读报告",
           "modified": "2026-11-17T23:34:35",
-          "date": "2026.11.17",
-          "channel": "The Tonight Show Starring Jimmy Fallon"
-        },
-        {
-          "id": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
-          "path": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
-          "title": "神秘女子的笑声与被操纵的中期选举 — Jimmy Fallon 精读报告",
-          "modified": "2026-11-17T23:34:30",
           "date": "2026.11.17",
           "channel": "The Tonight Show Starring Jimmy Fallon"
         },
