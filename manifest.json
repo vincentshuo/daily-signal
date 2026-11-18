@@ -279,6 +279,14 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Anne Lamott & Neal Allen.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Anne Lamott & Neal Allen.html",
+          "title": "写好，是可以学的 — Anne Lamott & Neal Allen 精读报告",
+          "modified": "2026-11-18T12:02:07",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/Tetragrammaton - Jonah Hill.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Jonah Hill.html",
           "title": "不是每件事都只有一面 — Jonah Hill 精读报告",
