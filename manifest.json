@@ -5,6 +5,14 @@
       "name": "AI Engineer",
       "documents": [
         {
+          "id": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
+          "path": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
+          "title": "教 Agent 建人人能用的产品 — Jemima Abu（CAIS）精读报告",
+          "modified": "2026-11-18T10:38:14",
+          "date": "2026.11.18",
+          "channel": "AI Engineer"
+        },
+        {
           "id": "Channel/AI Engineer/Keiji Kanazawa - I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code..html",
           "path": "Channel/AI Engineer/Keiji Kanazawa - I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code..html",
           "title": "我让 Agent 重构了三周代码，然后读了它 — Keiji Kanazawa（Microsoft）精读报告",
@@ -41,14 +49,6 @@
           "path": "Channel/AI Engineer/Ashwin Paranjape - Can AI Agents Beat Wall Street at Predicting Earnings?.html",
           "title": "Agent 能在财报预测上打败华尔街吗 — Ashwin Paranjape（Samaya AI）精读报告",
           "modified": "2026-11-17T18:55:24",
-          "date": "2026.11.17",
-          "channel": "AI Engineer"
-        },
-        {
-          "id": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
-          "path": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
-          "title": "Agent 没坏，坏的是它周围的一切 — Joey Wang（Harvey）精读报告",
-          "modified": "2026-11-17T18:50:09",
           "date": "2026.11.17",
           "channel": "AI Engineer"
         },
