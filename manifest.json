@@ -277,7 +277,16 @@
     {
       "id": "Shaun Murphy Snooker",
       "name": "Shaun Murphy Snooker",
-      "documents": []
+      "documents": [
+        {
+          "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 4 - The World Cup.html",
+          "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Episode 4 - The World Cup.html",
+          "title": "世界杯、卷纸之战与上班喝酒 — Shaun Murphy 精读报告",
+          "modified": "2026-11-18T18:59:03",
+          "date": "2026.11.18",
+          "channel": "Shaun Murphy Snooker"
+        }
+      ]
     },
     {
       "id": "Tetragrammaton",
