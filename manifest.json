@@ -1,6 +1,20 @@
 {
   "channels": [
     {
+      "id": "Aalto University",
+      "name": "Aalto University",
+      "documents": [
+        {
+          "id": "Channel/Aalto University/Samu Taulu - Electromagnetism in Brain Imaging: Finding the Needle in the Haystack.html",
+          "path": "Channel/Aalto University/Samu Taulu - Electromagnetism in Brain Imaging: Finding the Needle in the Haystack.html",
+          "title": "脑中寻针：电磁学探听大脑 — Samu Taulu（Aalto 大学）精读报告",
+          "modified": "2026-11-18T21:08:20",
+          "date": "2026.11.18",
+          "channel": "Aalto University"
+        }
+      ]
+    },
+    {
       "id": "AI Engineer",
       "name": "AI Engineer",
       "documents": [
