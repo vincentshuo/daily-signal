@@ -279,6 +279,14 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/Tetragrammaton - Daron Malakian Pt.1.html",
+          "path": "Channel/Tetragrammaton/Tetragrammaton - Daron Malakian Pt.1.html",
+          "title": "从迷幻到鞭挞 — Daron Malakian 精读报告",
+          "modified": "2026-11-18T16:24:16",
+          "date": "2026.11.18",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/Tetragrammaton - Daron Malakian Pt.2.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Daron Malakian Pt.2.html",
           "title": "从迷幻到数学金属 — Daron Malakian 精读报告",
