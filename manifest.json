@@ -315,6 +315,14 @@
       "name": "Shaun Murphy Snooker",
       "documents": [
         {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep9.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep9.html",
+          "title": "《〈In The Frame〉第 9 期：新球房首局，雪球效应与一颗银行家红球》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T10:39:19",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
           "id": "Channel/Shaun Murphy Snooker/safety-play.html",
           "path": "Channel/Shaun Murphy Snooker/safety-play.html",
           "title": "《安全球教学：白球贴库，让对手无球可打》 — Shaun Murphy 精读报告",
@@ -689,6 +697,20 @@
           "modified": "2026-11-18T19:20:02",
           "date": "2026.11.18",
           "channel": "Shaun Murphy Snooker"
+        }
+      ]
+    },
+    {
+      "id": "Stanford Online",
+      "name": "Stanford Online",
+      "documents": [
+        {
+          "id": "Channel/Stanford Online/Cynthia Bailey - AI Costs： Tokens, Energy, Model Choice & API Keys.html",
+          "path": "Channel/Stanford Online/Cynthia Bailey - AI Costs： Tokens, Energy, Model Choice & API Keys.html",
+          "title": "数清每一枚 Token 的代价 — Cynthia Bailey 精读报告",
+          "modified": "2026-11-19T10:38:46",
+          "date": "2026.11.19",
+          "channel": "Stanford Online"
         }
       ]
     },
