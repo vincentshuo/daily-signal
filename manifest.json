@@ -475,6 +475,20 @@
       ]
     },
     {
+      "id": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "name": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "documents": [
+        {
+          "id": "Channel/No Priors: AI, Machine Learning, Tech, & Startups/超级智能走不出数据中心 — Bob McGrew 精读报告.html",
+          "path": "Channel/No Priors: AI, Machine Learning, Tech, & Startups/超级智能走不出数据中心 — Bob McGrew 精读报告.html",
+          "title": "超级智能走不出数据中心 — Bob McGrew 精读报告",
+          "modified": "2026-11-19T21:22:32",
+          "date": "2026.11.19",
+          "channel": "No Priors: AI, Machine Learning, Tech, & Startups"
+        }
+      ]
+    },
+    {
       "id": "Presidio Bitcoin",
       "name": "Presidio Bitcoin",
       "documents": [
@@ -904,6 +918,14 @@
       "id": "Soft White Underbelly",
       "name": "Soft White Underbelly",
       "documents": [
+        {
+          "id": "Channel/Soft White Underbelly/Cane - The Functionable Addict.html",
+          "path": "Channel/Soft White Underbelly/Cane - The Functionable Addict.html",
+          "title": "能正常生活的瘾君子 — Cane 精读报告",
+          "modified": "2026-11-19T21:22:04",
+          "date": "2026.11.19",
+          "channel": "Soft White Underbelly"
+        },
         {
           "id": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
           "path": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
