@@ -315,6 +315,14 @@
       "name": "Shaun Murphy Snooker",
       "documents": [
         {
+          "id": "Channel/Shaun Murphy Snooker/the-rest.html",
+          "path": "Channel/Shaun Murphy Snooker/the-rest.html",
+          "title": "《架杆教学：越简单越好，短拉短送》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T11:00:12",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
           "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep9.html",
           "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep9.html",
           "title": "《〈In The Frame〉第 9 期：新球房首局，雪球效应与一颗银行家红球》 — Shaun Murphy 精读报告",
@@ -1259,6 +1267,20 @@
           "modified": "2026-11-17T23:34:10",
           "date": "2026.11.17",
           "channel": "The Tonight Show Starring Jimmy Fallon"
+        }
+      ]
+    },
+    {
+      "id": "Unprompted",
+      "name": "Unprompted",
+      "documents": [
+        {
+          "id": "Channel/Unprompted/Paul Price - CodeWall, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Paul Price - CodeWall, unprompted 2 offstage.html",
+          "title": "机器自己选了目标 — Paul Price 精读报告",
+          "modified": "2026-11-19T10:59:38",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
         }
       ]
     }
