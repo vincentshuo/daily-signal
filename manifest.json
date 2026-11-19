@@ -521,6 +521,174 @@
       "name": "Shaun Murphy Snooker",
       "documents": [
         {
+          "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - The One Four Seven Podcast.html",
+          "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - The One Four Seven Podcast.html",
+          "title": "久别归来：八杆满分与遛狗的规矩 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:58",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/a-quick-t-routine.html",
+          "path": "Channel/Shaun Murphy Snooker/a-quick-t-routine.html",
+          "title": "《T 字练习：七十四秒，十四颗红球，一路打到黑球》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:54",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/walking-you-through-a-full-frame.html",
+          "path": "Channel/Shaun Murphy Snooker/walking-you-through-a-full-frame.html",
+          "title": "《完整一局：三十九分钟，自己跟自己打，最后一杆差一分破百》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:50",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/running-side-vs-check-side.html",
+          "path": "Channel/Shaun Murphy Snooker/running-side-vs-check-side.html",
+          "title": "《顺塞与逆塞：十七分钟，破一个流传三十多年的迷思》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:46",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/aiming-with-side-spin-cue-ball-deflection.html",
+          "path": "Channel/Shaun Murphy Snooker/aiming-with-side-spin-cue-ball-deflection.html",
+          "title": "《母球偏转：十七分钟，边塞一上，瞄准点就得改》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:43",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/finding-the-middle-of-the-cue-ball.html",
+          "path": "Channel/Shaun Murphy Snooker/finding-the-middle-of-the-cue-ball.html",
+          "title": "《找母球的中心：二十二分钟，四套练习，只为打中那唯一的一点》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:38",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep1.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep1.html",
+          "title": "《〈In The Frame〉第 1 期：A 四十分没能一杆赢下，B 四十八分反超，A 残局清台六十七比四十八赢下首局》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:34",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/a-dummies-guide-to-sighting.html",
+          "path": "Channel/Shaun Murphy Snooker/a-dummies-guide-to-sighting.html",
+          "title": "《瞄准入门：先看袋口，再找红球上的击球点》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:29",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep2.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep2.html",
+          "title": "《〈In The Frame〉第 2 期：首杆 58 分没能一杆赢下，A 两回合 123 比 6 拿下这一局》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:24",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/splitting-the-pack-from-the-blue.html",
+          "path": "Channel/Shaun Murphy Snooker/splitting-the-pack-from-the-blue.html",
+          "title": "《从蓝球分开红球堆：运气至少占一半，但蓝球必须先进》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:21",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep3.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep3.html",
+          "title": "《〈In The Frame〉第 3 期：A 只得 9 分，B 一杆 91 分赢下这一局》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:17",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/the-stance.html",
+          "path": "Channel/Shaun Murphy Snooker/the-stance.html",
+          "title": "《站位教学：右脚先动，重心压在左膝上》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:13",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep4.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep4.html",
+          "title": "《〈In The Frame〉第 4 期：147 梦碎于 40 分，A 清台赢下这一局》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:10",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/the-grip.html",
+          "path": "Channel/Shaun Murphy Snooker/the-grip.html",
+          "title": "《握杆教学：把球杆放桌上，拿起来，就这么简单》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:07",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep5.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep5.html",
+          "title": "《〈In The Frame〉第 5 期：A 追 147 止于 33 分，B 反清台赢下这一局》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:33:02",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/the-bridge.html",
+          "path": "Channel/Shaun Murphy Snooker/the-bridge.html",
+          "title": "《手架教学：指尖抠住台呢，V 形托住球杆》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:57",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep6.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep6.html",
+          "title": "《〈In The Frame〉第 6 期：两杆之后就选追 147，一杆破百》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:53",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/cue-action.html",
+          "path": "Channel/Shaun Murphy Snooker/cue-action.html",
+          "title": "《出杆动作：拉得越慢，杆走得越直》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:49",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep7.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep7.html",
+          "title": "《〈In The Frame〉第 7 期：一局 81 比 0，安全球先看一眼再打》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:45",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/the-break-off.html",
+          "path": "Channel/Shaun Murphy Snooker/the-break-off.html",
+          "title": "《开球教学：最常打的一杆，也是最难的一杆》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:41",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/in-the-frame-ep8.html",
+          "path": "Channel/Shaun Murphy Snooker/in-the-frame-ep8.html",
+          "title": "《〈In The Frame〉第 8 期：一局硬仗，B 77 比 A 20》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-19T21:32:37",
+          "date": "2026.11.19",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
           "id": "Channel/Shaun Murphy Snooker/the-rest.html",
           "path": "Channel/Shaun Murphy Snooker/the-rest.html",
           "title": "《架杆教学：越简单越好，短拉短送》 — Shaun Murphy 精读报告",
@@ -821,14 +989,6 @@
           "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - Want to learn how to deep screw.html",
           "title": "深拉杆：白球一路退回开球区 — Shaun Murphy 精读报告",
           "modified": "2026-11-18T21:11:15",
-          "date": "2026.11.18",
-          "channel": "Shaun Murphy Snooker"
-        },
-        {
-          "id": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - The One Four Seven Podcast.html",
-          "path": "Channel/Shaun Murphy Snooker/Shaun Murphy Snooker - The One Four Seven Podcast.html",
-          "title": "久别归来：八杆满分与遛狗的规矩 — Shaun Murphy 精读报告",
-          "modified": "2026-11-18T20:52:57",
           "date": "2026.11.18",
           "channel": "Shaun Murphy Snooker"
         },
