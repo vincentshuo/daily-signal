@@ -1,6 +1,20 @@
 {
   "channels": [
     {
+      "id": "a16z",
+      "name": "a16z",
+      "documents": [
+        {
+          "id": "Channel/a16z/Ken Liu - What It Takes to Build an AI That Actually Knows You.html",
+          "path": "Channel/a16z/Ken Liu - What It Takes to Build an AI That Actually Knows You.html",
+          "title": "造一台真正认识你的 AI — Ken Liu 精读报告",
+          "modified": "2026-11-19T21:14:08",
+          "date": "2026.11.19",
+          "channel": "a16z"
+        }
+      ]
+    },
+    {
       "id": "Aalto University",
       "name": "Aalto University",
       "documents": [
@@ -18,6 +32,22 @@
       "id": "AI Engineer",
       "name": "AI Engineer",
       "documents": [
+        {
+          "id": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
+          "path": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
+          "title": "一年 40 倍：Cognition 的软件工厂 — Walden Yan 精读报告",
+          "modified": "2026-11-19T21:15:42",
+          "date": "2026.11.19",
+          "channel": "AI Engineer"
+        },
+        {
+          "id": "Channel/AI Engineer/gemini-4-post-training-melvin-johnson.html",
+          "path": "Channel/AI Engineer/gemini-4-post-training-melvin-johnson.html",
+          "title": "通过测试不等于解决问题 — Melvin Johnson（Google DeepMind）精读报告",
+          "modified": "2026-11-19T21:14:47",
+          "date": "2026.11.19",
+          "channel": "AI Engineer"
+        },
         {
           "id": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
           "path": "Channel/AI Engineer/Jemima Abu - Teach Your AI Agent to Build Products Everyone Can Use.html",
@@ -251,6 +281,56 @@
       ]
     },
     {
+      "id": "Axios",
+      "name": "Axios",
+      "documents": [
+        {
+          "id": "Channel/Axios/选票反数据中心之后，承诺如何兑现 — Maria Curi 精读报告.html",
+          "path": "Channel/Axios/选票反数据中心之后，承诺如何兑现 — Maria Curi 精读报告.html",
+          "title": "选票反数据中心之后，承诺如何兑现 — Maria Curi 精读报告",
+          "modified": "2026-11-19T21:17:24",
+          "date": "2026.11.19",
+          "channel": "Axios"
+        }
+      ]
+    },
+    {
+      "id": "Chris Williamson",
+      "name": "Chris Williamson",
+      "documents": [
+        {
+          "id": "Channel/Chris Williamson/What Religion Looked Like 150,000 Years Ago - Alex O’Connor.html",
+          "path": "Channel/Chris Williamson/What Religion Looked Like 150,000 Years Ago - Alex O’Connor.html",
+          "title": "十五万年前，人类就已经在找神了吗 — Alex O’Connor 精读报告",
+          "modified": "2026-11-19T21:15:31",
+          "date": "2026.11.19",
+          "channel": "Chris Williamson"
+        }
+      ]
+    },
+    {
+      "id": "Closer To Truth",
+      "name": "Closer To Truth",
+      "documents": [
+        {
+          "id": "Channel/Closer To Truth/三论证，三处裂缝 — Michael Tooley 精读报告.html",
+          "path": "Channel/Closer To Truth/三论证，三处裂缝 — Michael Tooley 精读报告.html",
+          "title": "三论证，三处裂缝 — Michael Tooley 精读报告",
+          "modified": "2026-11-19T21:16:45",
+          "date": "2026.11.19",
+          "channel": "Closer To Truth"
+        },
+        {
+          "id": "Channel/Closer To Truth/时间没有切口 — Victoria Trumbull 精读报告.html",
+          "path": "Channel/Closer To Truth/时间没有切口 — Victoria Trumbull 精读报告.html",
+          "title": "时间没有切口 — Victoria Trumbull 精读报告",
+          "modified": "2026-11-19T21:15:03",
+          "date": "2026.11.19",
+          "channel": "Closer To Truth"
+        }
+      ]
+    },
+    {
       "id": "Fashion Neurosis",
       "name": "Fashion Neurosis",
       "documents": [
@@ -293,6 +373,118 @@
           "modified": "2026-11-17T21:34:01",
           "date": "2026.11.17",
           "channel": "Fashion Neurosis"
+        }
+      ]
+    },
+    {
+      "id": "Founders",
+      "name": "Founders",
+      "documents": [
+        {
+          "id": "Channel/Founders/Brian Armstrong - Why Now Is The Golden Age of Building.html",
+          "path": "Channel/Founders/Brian Armstrong - Why Now Is The Golden Age of Building.html",
+          "title": "现在正是建造的黄金时代 — Brian Armstrong 精读报告",
+          "modified": "2026-11-19T21:16:18",
+          "date": "2026.11.19",
+          "channel": "Founders"
+        }
+      ]
+    },
+    {
+      "id": "GitHub",
+      "name": "GitHub",
+      "documents": [
+        {
+          "id": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
+          "path": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
+          "title": "框架即产品 — Julia Kasper 精读报告",
+          "modified": "2026-11-19T21:16:22",
+          "date": "2026.11.19",
+          "channel": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": "Joe Rogan",
+      "name": "Joe Rogan",
+      "documents": [
+        {
+          "id": "Channel/Joe Rogan/Greg Anderson - Joe Rogan Experience #2582.html",
+          "path": "Channel/Joe Rogan/Greg Anderson - Joe Rogan Experience #2582.html",
+          "title": "没人会来救你 — Greg Anderson 精读报告",
+          "modified": "2026-11-19T21:15:24",
+          "date": "2026.11.19",
+          "channel": "Joe Rogan"
+        }
+      ]
+    },
+    {
+      "id": "Masters of Scale",
+      "name": "Masters of Scale",
+      "documents": [
+        {
+          "id": "Channel/Masters of Scale/Amjad Masad - From Near-Collapse to 9 Billion, Replit.html",
+          "path": "Channel/Masters of Scale/Amjad Masad - From Near-Collapse to 9 Billion, Replit.html",
+          "title": "从崩溃边缘到 90 亿美元 — Amjad Masad（Replit）精读报告",
+          "modified": "2026-11-19T21:16:13",
+          "date": "2026.11.19",
+          "channel": "Masters of Scale"
+        }
+      ]
+    },
+    {
+      "id": "Matt Pocock",
+      "name": "Matt Pocock",
+      "documents": [
+        {
+          "id": "Channel/Matt Pocock/Matt Pocock - Watch me ship a 21,000-line feature with mattpocock-skills.html",
+          "path": "Channel/Matt Pocock/Matt Pocock - Watch me ship a 21,000-line feature with mattpocock-skills.html",
+          "title": "两万行代码，一次对齐 — Matt Pocock 精读报告",
+          "modified": "2026-11-19T21:14:19",
+          "date": "2026.11.19",
+          "channel": "Matt Pocock"
+        }
+      ]
+    },
+    {
+      "id": "Mel Robbins",
+      "name": "Mel Robbins",
+      "documents": [
+        {
+          "id": "Channel/Mel Robbins/说话清楚的 9 个习惯 — Vinh Giang 精读报告.html",
+          "path": "Channel/Mel Robbins/说话清楚的 9 个习惯 — Vinh Giang 精读报告.html",
+          "title": "说话清楚的 9 个习惯 — Vinh Giang 精读报告",
+          "modified": "2026-11-19T21:17:31",
+          "date": "2026.11.19",
+          "channel": "Mel Robbins"
+        }
+      ]
+    },
+    {
+      "id": "New Scientist",
+      "name": "New Scientist",
+      "documents": [
+        {
+          "id": "Channel/New Scientist/This El Niño Could Be The Strongest In 1,000 Years.html",
+          "path": "Channel/New Scientist/This El Niño Could Be The Strongest In 1,000 Years.html",
+          "title": "千年最强的厄尔尼诺？ — New Scientist 精读报告",
+          "modified": "2026-11-19T21:14:27",
+          "date": "2026.11.19",
+          "channel": "New Scientist"
+        }
+      ]
+    },
+    {
+      "id": "Presidio Bitcoin",
+      "name": "Presidio Bitcoin",
+      "documents": [
+        {
+          "id": "Channel/Presidio Bitcoin/anthropic-vs-elon-musk-ai-race.html",
+          "path": "Channel/Presidio Bitcoin/anthropic-vs-elon-musk-ai-race.html",
+          "title": "电力才是真正的护城河 — Anthropic vs Elon Musk 精读报告",
+          "modified": "2026-11-19T21:14:58",
+          "date": "2026.11.19",
+          "channel": "Presidio Bitcoin"
         }
       ]
     },
@@ -709,9 +901,39 @@
       ]
     },
     {
+      "id": "Soft White Underbelly",
+      "name": "Soft White Underbelly",
+      "documents": [
+        {
+          "id": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
+          "path": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
+          "title": "不值得记住的童年 — Catherine 精读报告",
+          "modified": "2026-11-19T21:15:51",
+          "date": "2026.11.19",
+          "channel": "Soft White Underbelly"
+        },
+        {
+          "id": "Channel/Soft White Underbelly/Carrie - I Used Men For Money Until I Found Love.html",
+          "path": "Channel/Soft White Underbelly/Carrie - I Used Men For Money Until I Found Love.html",
+          "title": "拿男人的钱，直到遇见爱 — Carrie 精读报告",
+          "modified": "2026-11-19T21:14:52",
+          "date": "2026.11.19",
+          "channel": "Soft White Underbelly"
+        }
+      ]
+    },
+    {
       "id": "Stanford Online",
       "name": "Stanford Online",
       "documents": [
+        {
+          "id": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
+          "path": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
+          "title": "评测即真理 — Alex Shaw & Ryan Marten 精读报告",
+          "modified": "2026-11-19T21:16:41",
+          "date": "2026.11.19",
+          "channel": "Stanford Online"
+        },
         {
           "id": "Channel/Stanford Online/Cynthia Bailey - AI Costs： Tokens, Energy, Model Choice & API Keys.html",
           "path": "Channel/Stanford Online/Cynthia Bailey - AI Costs： Tokens, Energy, Model Choice & API Keys.html",
@@ -723,9 +945,31 @@
       ]
     },
     {
+      "id": "TBPN",
+      "name": "TBPN",
+      "documents": [
+        {
+          "id": "Channel/TBPN/Travis Kalanick - If I Were Jensen, Here's What I'd Do.html",
+          "path": "Channel/TBPN/Travis Kalanick - If I Were Jensen, Here's What I'd Do.html",
+          "title": "如果我是 Jensen，我会这么做 — Travis Kalanick 精读报告",
+          "modified": "2026-11-19T21:15:55",
+          "date": "2026.11.19",
+          "channel": "TBPN"
+        }
+      ]
+    },
+    {
       "id": "Tetragrammaton",
       "name": "Tetragrammaton",
       "documents": [
+        {
+          "id": "Channel/Tetragrammaton/rick-rubin-michael-meade.html",
+          "path": "Channel/Tetragrammaton/rick-rubin-michael-meade.html",
+          "title": "末世不是终点，是揭幕 — Michael Meade 精读报告",
+          "modified": "2026-11-19T21:16:37",
+          "date": "2026.11.19",
+          "channel": "Tetragrammaton"
+        },
         {
           "id": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
           "path": "Channel/Tetragrammaton/Tetragrammaton - Rupi Kaur.html",
@@ -1169,6 +1413,34 @@
       ]
     },
     {
+      "id": "The Diary Of A CEO",
+      "name": "The Diary Of A CEO",
+      "documents": [
+        {
+          "id": "Channel/The Diary Of A CEO/美国民主、金钱与战争——伯尼·桑德斯九十分钟对谈 — Bernie Sanders 精读报告.html",
+          "path": "Channel/The Diary Of A CEO/美国民主、金钱与战争——伯尼·桑德斯九十分钟对谈 — Bernie Sanders 精读报告.html",
+          "title": "美国民主、金钱与战争——伯尼·桑德斯九十分钟对谈 — Bernie Sanders 精读报告",
+          "modified": "2026-11-19T21:17:36",
+          "date": "2026.11.19",
+          "channel": "The Diary Of A CEO"
+        }
+      ]
+    },
+    {
+      "id": "The Pragmatic Engineer",
+      "name": "The Pragmatic Engineer",
+      "documents": [
+        {
+          "id": "Channel/The Pragmatic Engineer/软件工厂：五千个 PR 背后 — Harjot Gill 精读报告.html",
+          "path": "Channel/The Pragmatic Engineer/软件工厂：五千个 PR 背后 — Harjot Gill 精读报告.html",
+          "title": "软件工厂：五千个 PR 背后 — Harjot Gill 精读报告",
+          "modified": "2026-11-19T21:16:54",
+          "date": "2026.11.19",
+          "channel": "The Pragmatic Engineer"
+        }
+      ]
+    },
+    {
       "id": "The Tonight Show Starring Jimmy Fallon",
       "name": "The Tonight Show Starring Jimmy Fallon",
       "documents": [
@@ -1275,6 +1547,70 @@
       "name": "Unprompted",
       "documents": [
         {
+          "id": "Channel/Unprompted/Saurabh Shintre - Realm Labs, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Saurabh Shintre - Realm Labs, unprompted 2 offstage.html",
+          "title": "问它为什么，而不只是它做了什么 — Saurabh Shintre 精读报告",
+          "modified": "2026-11-19T21:16:33",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Tobias Heldt - XOR, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Tobias Heldt - XOR, unprompted 2 offstage.html",
+          "title": "零日漏洞正在变成大宗商品 — Tobias Heldt 精读报告",
+          "modified": "2026-11-19T21:16:28",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Chenxi Wang - Rain Capital, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Chenxi Wang - Rain Capital, unprompted 2 offstage.html",
+          "title": "教 Agent 对齐，而不是把它关起来 — Chenxi Wang 精读报告",
+          "modified": "2026-11-19T21:15:38",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Kayla Williams & Olivia Rose - unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Kayla Williams & Olivia Rose - unprompted 2 offstage.html",
+          "title": "先把基础打牢，再谈 Agent — Kayla Williams & Olivia Rose 精读报告",
+          "modified": "2026-11-19T21:15:15",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Aaron Mog - ZeroSum, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Aaron Mog - ZeroSum, unprompted 2 offstage.html",
+          "title": "从前沿模型走向本地模型 — Aaron Mog 精读报告",
+          "modified": "2026-11-19T21:15:10",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Matt Suiche - Tolmo, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Matt Suiche - Tolmo, unprompted 2 offstage.html",
+          "title": "十八个月后，安全长什么样 — Matt Suiche 精读报告",
+          "modified": "2026-11-19T21:14:39",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Vince Ovando - unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Vince Ovando - unprompted 2 offstage.html",
+          "title": "提示注入不是漏洞 — Vince Ovando 精读报告",
+          "modified": "2026-11-19T21:14:34",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
+          "id": "Channel/Unprompted/Evelina Gabasova - AISLE, unprompted 2 offstage.html",
+          "path": "Channel/Unprompted/Evelina Gabasova - AISLE, unprompted 2 offstage.html",
+          "title": "小模型也能守住开源世界 — Evelina Gabasova 精读报告",
+          "modified": "2026-11-19T21:14:14",
+          "date": "2026.11.19",
+          "channel": "Unprompted"
+        },
+        {
           "id": "Channel/Unprompted/Damian Finol - Felix, unprompted 2 offstage.html",
           "path": "Channel/Unprompted/Damian Finol - Felix, unprompted 2 offstage.html",
           "title": "五百个网关与一把凿子 — Damian Finol 精读报告",
@@ -1289,6 +1625,20 @@
           "modified": "2026-11-19T10:59:38",
           "date": "2026.11.19",
           "channel": "Unprompted"
+        }
+      ]
+    },
+    {
+      "id": "Y Combinator",
+      "name": "Y Combinator",
+      "documents": [
+        {
+          "id": "Channel/Y Combinator/第一章的终结：Ramp 的 600 亿美元答卷 — Eric Glyman 精读报告.html",
+          "path": "Channel/Y Combinator/第一章的终结：Ramp 的 600 亿美元答卷 — Eric Glyman 精读报告.html",
+          "title": "第一章的终结：Ramp 的 600 亿美元答卷 — Eric Glyman 精读报告",
+          "modified": "2026-11-19T21:17:02",
+          "date": "2026.11.19",
+          "channel": "Y Combinator"
         }
       ]
     }
