@@ -363,6 +363,20 @@
       ]
     },
     {
+      "id": "CrashCourse",
+      "name": "CrashCourse",
+      "documents": [
+        {
+          "id": "Channel/CrashCourse/The Geology of Mars - Crash Course Geology #25.html",
+          "path": "Channel/CrashCourse/The Geology of Mars - Crash Course Geology #25.html",
+          "title": "一块火星岩石，离发现生命最近 — Sage Magee（CrashCourse）精读报告",
+          "modified": "2026-11-20T14:48:47",
+          "date": "2026.11.20",
+          "channel": "CrashCourse"
+        }
+      ]
+    },
+    {
       "id": "Fashion Neurosis",
       "name": "Fashion Neurosis",
       "documents": [
