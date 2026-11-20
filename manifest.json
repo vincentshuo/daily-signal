@@ -521,6 +521,14 @@
       "name": "Shaun Murphy Snooker",
       "documents": [
         {
+          "id": "Channel/Shaun Murphy Snooker/rest-play.html",
+          "path": "Channel/Shaun Murphy Snooker/rest-play.html",
+          "title": "《架杆：三分三十六秒，五招把难球打简单》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-20T09:17:08",
+          "date": "2026.11.20",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
           "id": "Channel/Shaun Murphy Snooker/the-deep-screw.html",
           "path": "Channel/Shaun Murphy Snooker/the-deep-screw.html",
           "title": "《深拉杆：二分五十一秒，一杆把母球拉回整张台》 — Shaun Murphy 精读报告",
