@@ -227,6 +227,20 @@
       ]
     },
     {
+      "id": "Alex Kantrowitz",
+      "name": "Alex Kantrowitz",
+      "documents": [
+        {
+          "id": "Channel/Alex Kantrowitz/时间与价值脱钩：为什么 Anthropic 的 IPO 会成功 — Aaron Levie 精读报告.html",
+          "path": "Channel/Alex Kantrowitz/时间与价值脱钩：为什么 Anthropic 的 IPO 会成功 — Aaron Levie 精读报告.html",
+          "title": "时间与价值脱钩：为什么 Anthropic 的 IPO 会成功 — Aaron Levie 精读报告",
+          "modified": "2026-11-20T20:23:00",
+          "date": "2026.11.20",
+          "channel": "Alex Kantrowitz"
+        }
+      ]
+    },
+    {
       "id": "All-In",
       "name": "All-In",
       "documents": [
@@ -344,6 +358,22 @@
       "id": "Closer To Truth",
       "name": "Closer To Truth",
       "documents": [
+        {
+          "id": "Channel/Closer To Truth/先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告.html",
+          "path": "Channel/Closer To Truth/先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告.html",
+          "title": "先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告",
+          "modified": "2026-11-20T20:22:52",
+          "date": "2026.11.20",
+          "channel": "Closer To Truth"
+        },
+        {
+          "id": "Channel/Closer To Truth/善业救不了人：苦难的根在无明 — Swami Sarvapriyananda 精读报告.html",
+          "path": "Channel/Closer To Truth/善业救不了人：苦难的根在无明 — Swami Sarvapriyananda 精读报告.html",
+          "title": "善业救不了人：苦难的根在无明 — Swami Sarvapriyananda 精读报告",
+          "modified": "2026-11-20T20:22:41",
+          "date": "2026.11.20",
+          "channel": "Closer To Truth"
+        },
         {
           "id": "Channel/Closer To Truth/三论证，三处裂缝 — Michael Tooley 精读报告.html",
           "path": "Channel/Closer To Truth/三论证，三处裂缝 — Michael Tooley 精读报告.html",
@@ -569,6 +599,20 @@
           "modified": "2026-11-19T21:22:32",
           "date": "2026.11.19",
           "channel": "No Priors: AI, Machine Learning, Tech, & Startups"
+        }
+      ]
+    },
+    {
+      "id": "Nomad Capitalist",
+      "name": "Nomad Capitalist",
+      "documents": [
+        {
+          "id": "Channel/Nomad Capitalist/Nomad Capitalist - EU Caribbean Citizenship.html",
+          "path": "Channel/Nomad Capitalist/Nomad Capitalist - EU Caribbean Citizenship.html",
+          "title": "欧盟下了最后通牒：加勒比护照要么关门，要么丢掉申根免签 — Andrew Henderson（Nomad Capitalist）精读报告",
+          "modified": "2026-11-20T20:22:31",
+          "date": "2026.11.20",
+          "channel": "Nomad Capitalist"
         }
       ]
     },
@@ -1433,12 +1477,48 @@
       "name": "TBPN",
       "documents": [
         {
+          "id": "Channel/TBPN/做艺术，不卖杂货：GTA VI 背后的 CEO — Strauss Zelnick 精读报告.html",
+          "path": "Channel/TBPN/做艺术，不卖杂货：GTA VI 背后的 CEO — Strauss Zelnick 精读报告.html",
+          "title": "做艺术，不卖杂货：GTA VI 背后的 CEO — Strauss Zelnick 精读报告",
+          "modified": "2026-11-20T20:23:03",
+          "date": "2026.11.20",
+          "channel": "TBPN"
+        },
+        {
           "id": "Channel/TBPN/Travis Kalanick - If I Were Jensen, Here's What I'd Do.html",
           "path": "Channel/TBPN/Travis Kalanick - If I Were Jensen, Here's What I'd Do.html",
           "title": "如果我是 Jensen，我会这么做 — Travis Kalanick 精读报告",
           "modified": "2026-11-19T21:15:55",
           "date": "2026.11.19",
           "channel": "TBPN"
+        }
+      ]
+    },
+    {
+      "id": "TED",
+      "name": "TED",
+      "documents": [
+        {
+          "id": "Channel/TED/不用禁令，数字会挤掉化石燃料 — Michael Liebreich 精读报告.html",
+          "path": "Channel/TED/不用禁令，数字会挤掉化石燃料 — Michael Liebreich 精读报告.html",
+          "title": "不用禁令，数字会挤掉化石燃料 — Michael Liebreich 精读报告",
+          "modified": "2026-11-20T20:22:49",
+          "date": "2026.11.20",
+          "channel": "TED"
+        }
+      ]
+    },
+    {
+      "id": "Tessl",
+      "name": "Tessl",
+      "documents": [
+        {
+          "id": "Channel/Tessl/daniel-meppiel-bill-of-materials.html",
+          "path": "Channel/Tessl/daniel-meppiel-bill-of-materials.html",
+          "title": "软件工厂也得有物料清单 — Daniel Meppiel（Microsoft）精读报告",
+          "modified": "2026-11-20T20:22:21",
+          "date": "2026.11.20",
+          "channel": "Tessl"
         }
       ]
     },
@@ -1914,6 +1994,14 @@
       "id": "The Economist",
       "name": "The Economist",
       "documents": [
+        {
+          "id": "Channel/The Economist/trump-putin-xi-unprepared.html",
+          "path": "Channel/The Economist/trump-putin-xi-unprepared.html",
+          "title": "“毫无准备”：深圳三方会晤没谈出什么 — Zanny Minton Beddoes 精读报告",
+          "modified": "2026-11-20T20:22:37",
+          "date": "2026.11.20",
+          "channel": "The Economist"
+        },
         {
           "id": "Channel/The Economist/ai-engineers-scared-self-building-ai.html",
           "path": "Channel/The Economist/ai-engineers-scared-self-building-ai.html",
