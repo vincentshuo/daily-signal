@@ -2069,6 +2069,20 @@
       ]
     },
     {
+      "id": "Vogue",
+      "name": "Vogue",
+      "documents": [
+        {
+          "id": "Channel/Vogue/Hunter Schafer - 18 Looks, From The Hunger Games to Euphoria.html",
+          "path": "Channel/Vogue/Hunter Schafer - 18 Looks, From The Hunger Games to Euphoria.html",
+          "title": "十八个造型里的九年 — Hunter Schafer（Vogue）精读报告",
+          "modified": "2026-11-20T14:03:53",
+          "date": "2026.11.20",
+          "channel": "Vogue"
+        }
+      ]
+    },
+    {
       "id": "When Shift Happens",
       "name": "When Shift Happens",
       "documents": [
