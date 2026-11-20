@@ -1939,6 +1939,20 @@
       ]
     },
     {
+      "id": "When Shift Happens",
+      "name": "When Shift Happens",
+      "documents": [
+        {
+          "id": "Channel/When Shift Happens/cryptobanter-last-big-chance.html",
+          "path": "Channel/When Shift Happens/cryptobanter-last-big-chance.html",
+          "title": "最后一次暴富的机会 — Ran Neuner（CryptoBanter）精读报告",
+          "modified": "2026-11-20T11:20:44",
+          "date": "2026.11.20",
+          "channel": "When Shift Happens"
+        }
+      ]
+    },
+    {
       "id": "Y Combinator",
       "name": "Y Combinator",
       "documents": [
