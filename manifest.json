@@ -33,6 +33,14 @@
       "name": "AI Engineer",
       "documents": [
         {
+          "id": "Channel/AI Engineer/thariq-shihipar-bitter-lesson.html",
+          "path": "Channel/AI Engineer/thariq-shihipar-bitter-lesson.html",
+          "title": "苦涩教训的甜蜜一面 — Thariq Shihipar 精读报告",
+          "modified": "2026-11-20T10:36:38",
+          "date": "2026.11.20",
+          "channel": "AI Engineer"
+        },
+        {
           "id": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
           "path": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
           "title": "一年 40 倍：Cognition 的软件工厂 — Walden Yan 精读报告",
