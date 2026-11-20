@@ -411,12 +411,34 @@
       "name": "GitHub",
       "documents": [
         {
+          "id": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
+          "path": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
+          "title": "代码是最容易的部分 — Franck Nijhof 精读报告",
+          "modified": "2026-11-20T12:02:42",
+          "date": "2026.11.20",
+          "channel": "GitHub"
+        },
+        {
           "id": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
           "path": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
           "title": "框架即产品 — Julia Kasper 精读报告",
           "modified": "2026-11-19T21:16:22",
           "date": "2026.11.19",
           "channel": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": "Grant Cardone",
+      "name": "Grant Cardone",
+      "documents": [
+        {
+          "id": "Channel/Grant Cardone/first-million-keep-you-small.html",
+          "path": "Channel/Grant Cardone/first-million-keep-you-small.html",
+          "title": "第一个一百万会让你变小 — Grant Cardone 精读报告",
+          "modified": "2026-11-20T12:02:23",
+          "date": "2026.11.20",
+          "channel": "Grant Cardone"
         }
       ]
     },
@@ -536,6 +558,22 @@
       "id": "Shaun Murphy Snooker",
       "name": "Shaun Murphy Snooker",
       "documents": [
+        {
+          "id": "Channel/Shaun Murphy Snooker/how-to-split-the-reds.html",
+          "path": "Channel/Shaun Murphy Snooker/how-to-split-the-reds.html",
+          "title": "《劈开红球堆：一分零九秒，母球穿堆而过》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-20T12:02:25",
+          "date": "2026.11.20",
+          "channel": "Shaun Murphy Snooker"
+        },
+        {
+          "id": "Channel/Shaun Murphy Snooker/break-off-part-2.html",
+          "path": "Channel/Shaun Murphy Snooker/break-off-part-2.html",
+          "title": "《开球（下）：一分二十一秒，这一杆能赢也能输》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-20T12:02:23",
+          "date": "2026.11.20",
+          "channel": "Shaun Murphy Snooker"
+        },
         {
           "id": "Channel/Shaun Murphy Snooker/how-to-control-the-cueball.html",
           "path": "Channel/Shaun Murphy Snooker/how-to-control-the-cueball.html",
@@ -1733,6 +1771,20 @@
           "modified": "2026-11-19T21:17:36",
           "date": "2026.11.19",
           "channel": "The Diary Of A CEO"
+        }
+      ]
+    },
+    {
+      "id": "The Economist",
+      "name": "The Economist",
+      "documents": [
+        {
+          "id": "Channel/The Economist/ai-engineers-scared-self-building-ai.html",
+          "path": "Channel/The Economist/ai-engineers-scared-self-building-ai.html",
+          "title": "当 AI 开始造更好的 AI — Alex Hern 精读报告",
+          "modified": "2026-11-20T12:02:35",
+          "date": "2026.11.20",
+          "channel": "The Economist"
         }
       ]
     },
