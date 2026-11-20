@@ -5,6 +5,14 @@
       "name": "a16z",
       "documents": [
         {
+          "id": "Channel/a16z/Nick Bostrom - Why Nick Bostrom Thinks Superintelligence Could End Aging.html",
+          "path": "Channel/a16z/Nick Bostrom - Why Nick Bostrom Thinks Superintelligence Could End Aging.html",
+          "title": "超级智能为什么可能终结衰老 — Nick Bostrom 精读报告",
+          "modified": "2026-11-20T13:55:36",
+          "date": "2026.11.20",
+          "channel": "a16z"
+        },
+        {
           "id": "Channel/a16z/Ken Liu - What It Takes to Build an AI That Actually Knows You.html",
           "path": "Channel/a16z/Ken Liu - What It Takes to Build an AI That Actually Knows You.html",
           "title": "造一台真正认识你的 AI — Ken Liu 精读报告",
