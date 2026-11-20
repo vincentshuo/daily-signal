@@ -33,6 +33,14 @@
       "name": "AI Engineer",
       "documents": [
         {
+          "id": "Channel/AI Engineer/fabian-hedin-lovable.html",
+          "path": "Channel/AI Engineer/fabian-hedin-lovable.html",
+          "title": "把智能放出来 — Fabian Hedin（Lovable）精读报告",
+          "modified": "2026-11-20T12:13:31",
+          "date": "2026.11.20",
+          "channel": "AI Engineer"
+        },
+        {
           "id": "Channel/AI Engineer/thariq-shihipar-bitter-lesson.html",
           "path": "Channel/AI Engineer/thariq-shihipar-bitter-lesson.html",
           "title": "苦涩教训的甜蜜一面 — Thariq Shihipar 精读报告",
@@ -558,6 +566,14 @@
       "id": "Shaun Murphy Snooker",
       "name": "Shaun Murphy Snooker",
       "documents": [
+        {
+          "id": "Channel/Shaun Murphy Snooker/my-cue.html",
+          "path": "Channel/Shaun Murphy Snooker/my-cue.html",
+          "title": "《我的球杆：四十六秒，照原样复刻的那根杆》 — Shaun Murphy 精读报告",
+          "modified": "2026-11-20T12:13:50",
+          "date": "2026.11.20",
+          "channel": "Shaun Murphy Snooker"
+        },
         {
           "id": "Channel/Shaun Murphy Snooker/how-to-split-the-reds.html",
           "path": "Channel/Shaun Murphy Snooker/how-to-split-the-reds.html",
