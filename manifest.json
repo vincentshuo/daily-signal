@@ -539,6 +539,14 @@
       "name": "Presidio Bitcoin",
       "documents": [
         {
+          "id": "Channel/Presidio Bitcoin/google-glass-is-back.html",
+          "path": "Channel/Presidio Bitcoin/google-glass-is-back.html",
+          "title": "除了 AI，什么都没变 — Google Glass 精读报告",
+          "modified": "2026-11-20T12:22:59",
+          "date": "2026.11.20",
+          "channel": "Presidio Bitcoin"
+        },
+        {
           "id": "Channel/Presidio Bitcoin/anthropic-vs-elon-musk-ai-race.html",
           "path": "Channel/Presidio Bitcoin/anthropic-vs-elon-musk-ai-race.html",
           "title": "电力才是真正的护城河 — Anthropic vs Elon Musk 精读报告",
