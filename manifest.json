@@ -1349,6 +1349,20 @@
       ]
     },
     {
+      "id": "StarTalk",
+      "name": "StarTalk",
+      "documents": [
+        {
+          "id": "Channel/StarTalk/Janna Levin - Black Holes, In Theory….html",
+          "path": "Channel/StarTalk/Janna Levin - Black Holes, In Theory….html",
+          "title": "黑洞，理论上 — Janna Levin（StarTalk）精读报告",
+          "modified": "2026-11-20T13:48:24",
+          "date": "2026.11.20",
+          "channel": "StarTalk"
+        }
+      ]
+    },
+    {
       "id": "TBPN",
       "name": "TBPN",
       "documents": [
