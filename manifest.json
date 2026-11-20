@@ -1375,6 +1375,14 @@
       "name": "Stanford Online",
       "documents": [
         {
+          "id": "Channel/Stanford Online/Stanford Online Graduate Information Session.html",
+          "path": "Channel/Stanford Online/Stanford Online Graduate Information Session.html",
+          "title": "先试一门课：斯坦福研究生的三条路 — Pax Heymeyer、Jonathan Nottman 精读报告",
+          "modified": "2026-11-20T16:45:51",
+          "date": "2026.11.20",
+          "channel": "Stanford Online"
+        },
+        {
           "id": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
           "path": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
           "title": "评测即真理 — Alex Shaw & Ryan Marten 精读报告",
