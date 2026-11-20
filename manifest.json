@@ -41,6 +41,14 @@
       "name": "AI Engineer",
       "documents": [
         {
+          "id": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
+          "path": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
+          "title": "一年 40 倍：Cognition 的软件工厂 — Walden Yan 精读报告",
+          "modified": "2026-11-20T23:50:11",
+          "date": "2026.11.20",
+          "channel": "AI Engineer"
+        },
+        {
           "id": "Channel/AI Engineer/fabian-hedin-lovable.html",
           "path": "Channel/AI Engineer/fabian-hedin-lovable.html",
           "title": "把智能放出来 — Fabian Hedin（Lovable）精读报告",
@@ -54,14 +62,6 @@
           "title": "苦涩教训的甜蜜一面 — Thariq Shihipar 精读报告",
           "modified": "2026-11-20T10:36:38",
           "date": "2026.11.20",
-          "channel": "AI Engineer"
-        },
-        {
-          "id": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
-          "path": "Channel/AI Engineer/40x-more-merged-prs-walden-yan-cognition.html",
-          "title": "一年 40 倍：Cognition 的软件工厂 — Walden Yan 精读报告",
-          "modified": "2026-11-19T21:15:42",
-          "date": "2026.11.19",
           "channel": "AI Engineer"
         },
         {
@@ -340,7 +340,7 @@
           "id": "Channel/Chris Williamson/What We Get Wrong About Angry Young Men - Ashley Walters.html",
           "path": "Channel/Chris Williamson/What We Get Wrong About Angry Young Men - Ashley Walters.html",
           "title": "愤怒的年轻男人，我们到底误会了什么 — Ashley Walters 精读报告",
-          "modified": "2026-11-20T10:55:48",
+          "modified": "2026-11-20T23:50:16",
           "date": "2026.11.20",
           "channel": "Chris Williamson"
         },
@@ -348,8 +348,8 @@
           "id": "Channel/Chris Williamson/What Religion Looked Like 150,000 Years Ago - Alex O’Connor.html",
           "path": "Channel/Chris Williamson/What Religion Looked Like 150,000 Years Ago - Alex O’Connor.html",
           "title": "十五万年前，人类就已经在找神了吗 — Alex O’Connor 精读报告",
-          "modified": "2026-11-19T21:15:31",
-          "date": "2026.11.19",
+          "modified": "2026-11-20T23:50:13",
+          "date": "2026.11.20",
           "channel": "Chris Williamson"
         }
       ]
@@ -474,7 +474,7 @@
           "id": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
           "path": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
           "title": "代码是最容易的部分 — Franck Nijhof 精读报告",
-          "modified": "2026-11-20T12:02:42",
+          "modified": "2026-11-20T23:50:23",
           "date": "2026.11.20",
           "channel": "GitHub"
         },
@@ -482,8 +482,8 @@
           "id": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
           "path": "Channel/GitHub/Julia Kasper - How We Optimize GitHub Copilot for Every New Model.html",
           "title": "框架即产品 — Julia Kasper 精读报告",
-          "modified": "2026-11-19T21:16:22",
-          "date": "2026.11.19",
+          "modified": "2026-11-20T23:50:21",
+          "date": "2026.11.20",
           "channel": "GitHub"
         }
       ]
@@ -496,7 +496,7 @@
           "id": "Channel/Grant Cardone/first-million-keep-you-small.html",
           "path": "Channel/Grant Cardone/first-million-keep-you-small.html",
           "title": "第一个一百万会让你变小 — Grant Cardone 精读报告",
-          "modified": "2026-11-20T12:02:23",
+          "modified": "2026-11-20T23:50:26",
           "date": "2026.11.20",
           "channel": "Grant Cardone"
         }
@@ -1381,18 +1381,10 @@
       "name": "Soft White Underbelly",
       "documents": [
         {
-          "id": "Channel/Soft White Underbelly/我知道我会找到出路 — Jada 精读报告.html",
-          "path": "Channel/Soft White Underbelly/我知道我会找到出路 — Jada 精读报告.html",
-          "title": "我知道我会找到出路 — Jada 精读报告",
-          "modified": "2026-11-20T22:56:05",
-          "date": "2026.11.20",
-          "channel": "Soft White Underbelly"
-        },
-        {
-          "id": "Channel/Soft White Underbelly/Bernice - Fentanyl Addict.html",
-          "path": "Channel/Soft White Underbelly/Bernice - Fentanyl Addict.html",
-          "title": "六十岁，还在 Skid Row — Bernice 精读报告",
-          "modified": "2026-11-20T11:07:13",
+          "id": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
+          "path": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
+          "title": "不值得记住的童年 — Catherine 精读报告",
+          "modified": "2026-11-20T23:50:36",
           "date": "2026.11.20",
           "channel": "Soft White Underbelly"
         },
@@ -1400,16 +1392,24 @@
           "id": "Channel/Soft White Underbelly/Cane - The Functionable Addict.html",
           "path": "Channel/Soft White Underbelly/Cane - The Functionable Addict.html",
           "title": "能正常生活的瘾君子 — Cane 精读报告",
-          "modified": "2026-11-19T21:22:04",
-          "date": "2026.11.19",
+          "modified": "2026-11-20T23:50:34",
+          "date": "2026.11.20",
           "channel": "Soft White Underbelly"
         },
         {
-          "id": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
-          "path": "Channel/Soft White Underbelly/Catherine - A Childhood Not Worth Remembering.html",
-          "title": "不值得记住的童年 — Catherine 精读报告",
-          "modified": "2026-11-19T21:15:51",
-          "date": "2026.11.19",
+          "id": "Channel/Soft White Underbelly/Bernice - Fentanyl Addict.html",
+          "path": "Channel/Soft White Underbelly/Bernice - Fentanyl Addict.html",
+          "title": "六十岁，还在 Skid Row — Bernice 精读报告",
+          "modified": "2026-11-20T23:50:31",
+          "date": "2026.11.20",
+          "channel": "Soft White Underbelly"
+        },
+        {
+          "id": "Channel/Soft White Underbelly/我知道我会找到出路 — Jada 精读报告.html",
+          "path": "Channel/Soft White Underbelly/我知道我会找到出路 — Jada 精读报告.html",
+          "title": "我知道我会找到出路 — Jada 精读报告",
+          "modified": "2026-11-20T22:56:05",
+          "date": "2026.11.20",
           "channel": "Soft White Underbelly"
         },
         {
@@ -1427,19 +1427,19 @@
       "name": "Stanford Online",
       "documents": [
         {
+          "id": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
+          "path": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
+          "title": "评测即真理 — Alex Shaw & Ryan Marten 精读报告",
+          "modified": "2026-11-20T23:50:38",
+          "date": "2026.11.20",
+          "channel": "Stanford Online"
+        },
+        {
           "id": "Channel/Stanford Online/Stanford Online Graduate Information Session.html",
           "path": "Channel/Stanford Online/Stanford Online Graduate Information Session.html",
           "title": "先试一门课：斯坦福研究生的三条路 — Pax Heymeyer、Jonathan Nottman 精读报告",
           "modified": "2026-11-20T16:45:51",
           "date": "2026.11.20",
-          "channel": "Stanford Online"
-        },
-        {
-          "id": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
-          "path": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
-          "title": "评测即真理 — Alex Shaw & Ryan Marten 精读报告",
-          "modified": "2026-11-19T21:16:41",
-          "date": "2026.11.19",
           "channel": "Stanford Online"
         },
         {
@@ -1535,11 +1535,19 @@
       "name": "Tetragrammaton",
       "documents": [
         {
+          "id": "Channel/Tetragrammaton/steven-pressfield.html",
+          "path": "Channel/Tetragrammaton/steven-pressfield.html",
+          "title": "自我怀疑是好兆头 — Steven Pressfield 精读报告",
+          "modified": "2026-11-20T23:50:43",
+          "date": "2026.11.20",
+          "channel": "Tetragrammaton"
+        },
+        {
           "id": "Channel/Tetragrammaton/rick-rubin-michael-meade.html",
           "path": "Channel/Tetragrammaton/rick-rubin-michael-meade.html",
           "title": "末世不是终点，是揭幕 — Michael Meade 精读报告",
-          "modified": "2026-11-19T21:16:37",
-          "date": "2026.11.19",
+          "modified": "2026-11-20T23:50:41",
+          "date": "2026.11.20",
           "channel": "Tetragrammaton"
         },
         {
@@ -2039,6 +2047,14 @@
       "name": "The Tonight Show Starring Jimmy Fallon",
       "documents": [
         {
+          "id": "Channel/The Tonight Show Starring Jimmy Fallon/pete-davidson-mob-wives.html",
+          "path": "Channel/The Tonight Show Starring Jimmy Fallon/pete-davidson-mob-wives.html",
+          "title": "十七岁开逃逸车上了电视——皮特·戴维森谈《Mob Wives》首秀、芝士牛排与两部新片 — Jimmy Fallon 精读报告",
+          "modified": "2026-11-20T23:50:18",
+          "date": "2026.11.20",
+          "channel": "The Tonight Show Starring Jimmy Fallon"
+        },
+        {
           "id": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
           "path": "Channel/The Tonight Show Starring Jimmy Fallon/Trump Claims Midterms Were Rigged, Mystery Woman Interrupts Trump's C-SPAN Call with Giggles.html",
           "title": "神秘女子的笑声与被操纵的中期选举 — Jimmy Fallon 精读报告",
@@ -2244,7 +2260,7 @@
           "id": "Channel/When Shift Happens/cryptobanter-last-big-chance.html",
           "path": "Channel/When Shift Happens/cryptobanter-last-big-chance.html",
           "title": "最后一次暴富的机会 — Ran Neuner（CryptoBanter）精读报告",
-          "modified": "2026-11-20T11:20:44",
+          "modified": "2026-11-20T23:50:47",
           "date": "2026.11.20",
           "channel": "When Shift Happens"
         }
