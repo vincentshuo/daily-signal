@@ -375,6 +375,14 @@
       "name": "Closer To Truth",
       "documents": [
         {
+          "id": "Channel/Closer To Truth/巧合能科学地研究吗 — Jeffrey Mishlove 精读报告.html",
+          "path": "Channel/Closer To Truth/巧合能科学地研究吗 — Jeffrey Mishlove 精读报告.html",
+          "title": "巧合能科学地研究吗 — Jeffrey Mishlove 精读报告",
+          "modified": "2026-11-21T14:19:36",
+          "date": "2026.11.21",
+          "channel": "Closer To Truth"
+        },
+        {
           "id": "Channel/Closer To Truth/先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告.html",
           "path": "Channel/Closer To Truth/先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告.html",
           "title": "先定义，再实验：艺术如何加深理解 — Christopher Brewer 精读报告",
@@ -1466,6 +1474,14 @@
       "id": "Stanford Online",
       "name": "Stanford Online",
       "documents": [
+        {
+          "id": "Channel/Stanford Online/Philip Guo - 一位开发者，二十年，三千万用户之后.html",
+          "path": "Channel/Stanford Online/Philip Guo - 一位开发者，二十年，三千万用户之后.html",
+          "title": "一位开发者，二十年，三千万用户之后 — Philip Guo 精读报告",
+          "modified": "2026-11-21T14:19:40",
+          "date": "2026.11.21",
+          "channel": "Stanford Online"
+        },
         {
           "id": "Channel/Stanford Online/Afshine Amidi & Shervine Amidi - LLM Evaluation.html",
           "path": "Channel/Stanford Online/Afshine Amidi & Shervine Amidi - LLM Evaluation.html",
