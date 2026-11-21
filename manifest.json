@@ -261,6 +261,14 @@
       "name": "All-In",
       "documents": [
         {
+          "id": "Channel/All-In/anthropic-ipo-nvidia-crisis.html",
+          "path": "Channel/All-In/anthropic-ipo-nvidia-crisis.html",
+          "title": "Anthropic 上市、英伟达危机与开源整肃 — All-In Podcast 精读报告",
+          "modified": "2026-11-21T14:40:00",
+          "date": "2026.11.21",
+          "channel": "All-In"
+        },
+        {
           "id": "Channel/All-In/All-In - CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer.html",
           "path": "Channel/All-In/All-In - CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer.html",
           "title": "CoreWeave 暴跌：AI 交易的第一次压力测试 — All-In Podcast 精读报告",
