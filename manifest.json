@@ -479,6 +479,14 @@
       "name": "GitHub",
       "documents": [
         {
+          "id": "Channel/GitHub/Maria Victoria Gromysch - Building domain-specific AI agents for hardware reliability at NVIDIA.html",
+          "path": "Channel/GitHub/Maria Victoria Gromysch - Building domain-specific AI agents for hardware reliability at NVIDIA.html",
+          "title": "良率交给智能体 — Maria Victoria Gromysch 精读报告",
+          "modified": "2026-11-21T12:34:11",
+          "date": "2026.11.21",
+          "channel": "GitHub"
+        },
+        {
           "id": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
           "path": "Channel/GitHub/Code is the easy part - building Home Assistant in the open.html",
           "title": "代码是最容易的部分 — Franck Nijhof 精读报告",
