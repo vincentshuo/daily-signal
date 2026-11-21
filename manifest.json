@@ -515,6 +515,14 @@
       "name": "Joe Rogan",
       "documents": [
         {
+          "id": "Channel/Joe Rogan/Mike Baker - Joe Rogan Experience #2584.html",
+          "path": "Channel/Joe Rogan/Mike Baker - Joe Rogan Experience #2584.html",
+          "title": "间谍、芯片与没有终局的战争 — Mike Baker 精读报告",
+          "modified": "2026-11-21T12:21:55",
+          "date": "2026.11.21",
+          "channel": "Joe Rogan"
+        },
+        {
           "id": "Channel/Joe Rogan/Bob Gymlan - Joe Rogan Experience #2583.html",
           "path": "Channel/Joe Rogan/Bob Gymlan - Joe Rogan Experience #2583.html",
           "title": "失踪的科学家，与正在孵化的数字生命 — Bob Gymlan 精读报告",
