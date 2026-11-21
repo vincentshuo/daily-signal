@@ -529,6 +529,14 @@
       "name": "Masters of Scale",
       "documents": [
         {
+          "id": "Channel/Masters of Scale/Danny Meyer - What Every Business Can Learn From Restaurants.html",
+          "path": "Channel/Masters of Scale/Danny Meyer - What Every Business Can Learn From Restaurants.html",
+          "title": "餐厅教给每家企业的事 — Danny Meyer（Union Square Hospitality Group）精读报告",
+          "modified": "2026-11-21T11:18:00",
+          "date": "2026.11.21",
+          "channel": "Masters of Scale"
+        },
+        {
           "id": "Channel/Masters of Scale/Josh Tyrangiel - The AI That Matters Isn't the AI You Hear About.html",
           "path": "Channel/Masters of Scale/Josh Tyrangiel - The AI That Matters Isn't the AI You Hear About.html",
           "title": "重要的 AI 不在头条里 — Josh Tyrangiel（The Atlantic）精读报告",
@@ -1427,6 +1435,14 @@
       "name": "Stanford Online",
       "documents": [
         {
+          "id": "Channel/Stanford Online/Afshine Amidi & Shervine Amidi - LLM Evaluation.html",
+          "path": "Channel/Stanford Online/Afshine Amidi & Shervine Amidi - LLM Evaluation.html",
+          "title": "分数会说谎，评测才是方向 — Afshine Amidi & Shervine Amidi 精读报告",
+          "modified": "2026-11-21T11:17:42",
+          "date": "2026.11.21",
+          "channel": "Stanford Online"
+        },
+        {
           "id": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
           "path": "Channel/Stanford Online/Terminal-Bench - Evaluating AI Agents, Alex Shaw & Ryan Marten.html",
           "title": "评测即真理 — Alex Shaw & Ryan Marten 精读报告",
@@ -1484,6 +1500,14 @@
       "id": "TBPN",
       "name": "TBPN",
       "documents": [
+        {
+          "id": "Channel/TBPN/Jordi Hays 与 John Coogan - AI 证明黎曼猜想，股市大跌，豪宅栏目精读报告.html",
+          "path": "Channel/TBPN/Jordi Hays 与 John Coogan - AI 证明黎曼猜想，股市大跌，豪宅栏目精读报告.html",
+          "title": "AI 证明黎曼猜想，股市大跌，豪宅栏目 — Jordi Hays 与 John Coogan 精读报告",
+          "modified": "2026-11-21T11:17:49",
+          "date": "2026.11.21",
+          "channel": "TBPN"
+        },
         {
           "id": "Channel/TBPN/做艺术，不卖杂货：GTA VI 背后的 CEO — Strauss Zelnick 精读报告.html",
           "path": "Channel/TBPN/做艺术，不卖杂货：GTA VI 背后的 CEO — Strauss Zelnick 精读报告.html",
