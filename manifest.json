@@ -5,6 +5,14 @@
       "name": "a16z",
       "documents": [
         {
+          "id": "Channel/a16z/DHH - Why AI Has DHH Working 16-Hour Days.html",
+          "path": "Channel/a16z/DHH - Why AI Has DHH Working 16-Hour Days.html",
+          "title": "AI 时代的十六小时工作日 — DHH 精读报告",
+          "modified": "2026-11-21T11:59:19",
+          "date": "2026.11.21",
+          "channel": "a16z"
+        },
+        {
           "id": "Channel/a16z/Nick Bostrom - Why Nick Bostrom Thinks Superintelligence Could End Aging.html",
           "path": "Channel/a16z/Nick Bostrom - Why Nick Bostrom Thinks Superintelligence Could End Aging.html",
           "title": "超级智能为什么可能终结衰老 — Nick Bostrom 精读报告",
@@ -1538,6 +1546,14 @@
       "id": "TED",
       "name": "TED",
       "documents": [
+        {
+          "id": "Channel/TED/想让人改变？先换一个问题 — Philip Jameson 精读报告.html",
+          "path": "Channel/TED/想让人改变？先换一个问题 — Philip Jameson 精读报告.html",
+          "title": "想让人改变？先换一个问题 — Philip Jameson 精读报告",
+          "modified": "2026-11-21T11:59:15",
+          "date": "2026.11.21",
+          "channel": "TED"
+        },
         {
           "id": "Channel/TED/不用禁令，数字会挤掉化石燃料 — Michael Liebreich 精读报告.html",
           "path": "Channel/TED/不用禁令，数字会挤掉化石燃料 — Michael Liebreich 精读报告.html",
